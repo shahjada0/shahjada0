@@ -7,7 +7,7 @@
 ### A Cyber Security Researcher.
 I love playing with Computer Technologies. I adore good Movies, Anime, Music and Books.
 
-###😄 Few Things About Me.
+### 😄 Few Things About Me.
 
 - 🌱 I’m currently learning about Computers.
 - 🔭 Cyber Security Analyst at Illusion Silent Killer.
