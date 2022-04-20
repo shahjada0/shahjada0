@@ -3,9 +3,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DroidHacker0&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="100%" /></p>
 
 
-## Hi there 👋, I'm Alif
+## Hi there 👋, I'm Muhammed Alif[Droid Hacker]
 ### A Cyber Security Researcher.
-I love playing with Computer Technologies. I adore good Movies, Anime, Music and Books.
+I really love playing with Computer Technologies. I adore good Movies, Anime, Music and Books.
 
 ### 😄 Few Things About Me.
 
