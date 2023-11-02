@@ -10,9 +10,6 @@ I really love playing with Computer Technologies. I adore good Movies, Anime, Mu
 ### 😄 Few Things About Me.
 
 - 🌱 I’m currently learning about Computers.
-- 🔭 Cyber Security Analyst at Illusion Silent Killer.
-- 🌱 Security Analyst & Leader of Nightraid Ravens.
-- 🤔 Founder & CEO of Bangladesh Cyber Warriors.
 - ⚡ Lives in Dhaka, Bangladesh.
 - 💫 From Barishal, Bangladesh.
 - ✨ Want to become a Perfect Muslim.
