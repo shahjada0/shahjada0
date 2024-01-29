@@ -18,8 +18,8 @@ I'm a passionate computer science enthusiast based in Dhaka, Bangladesh. Current
 
 ## 🚀 My Skills
 
-- **Programming Languages:** Python, JavaScript
-- **Web Development:** HTML, CSS, React.js
+- **Programming Languages:** Python, JavaScript, Go, Bash, PHP
+- **Web Development:** HTML, CSS, React.js, Flask
 - **AI/ML:** TensorFlow, PyTorch
 
 ## 🌱 I’m Currently Learning
