@@ -12,7 +12,7 @@ I'm a passionate computer science enthusiast based in Dhaka, Bangladesh. Current
 
 ## 💻 What I'm Currently Doing
 
-- 🎓 Studying Computer Science at Lalbagh Govt. Model School & College
+- 🎓 Studying at Lalbagh Govt. Model School & College
 - 🚀 Exploring the realms of Artificial Intelligence and Machine Learning
 - 💡 Crafting unique computer programs and projects
 
