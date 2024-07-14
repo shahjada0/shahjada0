@@ -1,5 +1,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahjada0&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900)](https://git.io/streak-stats)
+https://github-profile-trophy.vercel.app/?username=shahjada0&theme=matrix
 
 ## Hi there 👋, I'm Shahjada Alif
 I really love playing with Computer Technologies. I adore good Movies, Anime, Music and Books.
