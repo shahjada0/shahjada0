@@ -1,5 +1,5 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahjada0&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahjada0&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=900)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-profile-trophy.vercel.app/?username=shahjada0&theme=matrix)](https://git.io/streak-stats)
 
 ## Hi there 👋, I'm Shahjada Alif
