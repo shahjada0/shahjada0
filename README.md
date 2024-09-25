@@ -1,6 +1,6 @@
-[![GitHub Streak](https://readme-typing-svg.demolab.com/?lines=Self-taught%20programmer%3B%0AProficient%20in%20various%20fields%3B%0AAlways%20learning%20and%20growing%3B%0APassionate%20about%20applying%20new%20technologies.&font=Fira%20Code&center=true&width=900&height=45&color=f75c7e&vCenter=true&pause=1000&size=25)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahjada0&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=900)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=shahjada0&theme=matrix)](https://git.io/streak-stats)
+[![GitHub Streak](https://readme-typing-svg.demolab.com/?lines=Self-taught%20programmer%3B%0AProficient%20in%20various%20fields%3B%0AAlways%20learning%20and%20growing%3B%0APassionate%20about%20applying%20new%20technologies.&font=Fira%20Code&center=true&width=900&height=45&color=f75c7e&vCenter=true&pause=1000&size=25)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahjada0&theme=highcontrast&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=900)]
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=shahjada0&theme=matrix)]
 
 ## Hi there 👋, I'm Shahjada Alif
 I really love playing with Computer Technologies. I adore good Movies, Anime, Music and Books.
